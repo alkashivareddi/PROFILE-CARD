@@ -1,6 +1,10 @@
 # PROFILE-CARD
 PROFILE-CARD is a responsive and visually appealing profile card component built using HTML and CSS. This project demonstrates how to create a clean and modern profile card suitable for personal websites, portfolios, or team pages.
 GitHub
+# Technologies Used
+
+- HTML5
+- CSS3
 
 # Project Structure
 ```
