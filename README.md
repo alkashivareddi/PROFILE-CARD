@@ -17,6 +17,18 @@ PROFILE-CARD/
 - Clean and minimalist user interface
 
 - Easy to integrate into existing projects
+  
+
+# How to Use
+1.Clone the repository:
+
+  git clone https://github.com/alkashivareddi/PROFILE-CARD.git
+
+2.Navigate to the project folder:
+
+  cd PROFILE-CARD
+
+
 
 
 
