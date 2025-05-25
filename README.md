@@ -27,6 +27,9 @@ PROFILE-CARD/
 2.Navigate to the project folder:
 
   cd PROFILE-CARD
+# License
+This project is open-source and available under the MIT License.
+
 
 
 
